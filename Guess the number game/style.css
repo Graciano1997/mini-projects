@@ -52,6 +52,10 @@ h1 {
   transform: translate(-50%, -50%);
 }
 
+#audio{
+  opacity:0;
+}
+
 .number {
   background: #eee;
   color: #e02f6b;
@@ -72,6 +76,9 @@ h1 {
   right: 2rem;
 }
 
+#check:disabled{
+  background-color: black;
+}
 .again {
   position: absolute;
   top: 2rem;
