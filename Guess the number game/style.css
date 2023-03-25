@@ -12,8 +12,8 @@ html {
 
 body {
   font-family: "Press Start 2P", sans-serif;
-  color: #0000ff;
-  background-color: #222;
+  color: white;
+  background-color:darkblue;
 }
 
 header {
@@ -24,7 +24,7 @@ header {
 
 main {
   height: 65vh;
-  color: #0000ff;
+  color: white;
   display: flex;
   align-items: center;
   justify-content: space-around;
